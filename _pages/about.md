@@ -7,7 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+Adams Y. Zhu
+======
 Adams Y. Zhu is a first-year graduate student pursuing his Master's degree at the University of Maryland, College Park. His current research interests span a variety of fields, including the theory of deep learning, compressive sensing, online learning, and reinforcement learning theory.
 
 In addition to his academic pursuits, Adams has a deep passion for both mathematics and history. Feel free to reach out if you share similar interests. He is also a critic of Confucianism, particularly for the gender discrimination he believes it perpetuates.
