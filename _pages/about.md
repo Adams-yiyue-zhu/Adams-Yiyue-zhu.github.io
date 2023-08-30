@@ -8,6 +8,7 @@ But my curiosity doesn't stop at academics. I also have a profound love for math
 A quick personal note: Although I originally come from Shandong Province, China—the cradle of Confucianism—I find myself critical of this ancient philosophy, particularly for the gender discrimination I believe it perpetuates.
 
 [Email](mailto:yzhu1221@umd.edu)
+
 [Github](https://github.com/Adams-yiyue-zhu)
 
 A data-driven personal website
