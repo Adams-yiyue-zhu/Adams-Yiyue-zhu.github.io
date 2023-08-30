@@ -6,19 +6,7 @@ Welcome to my personal website! My name is Adams Y. Zhu, and I am a first-year g
 But my curiosity doesn't stop at academics. I also have a profound love for mathematics and history. If you share similar interests or would like to discuss any of these topics, I invite you to reach out. Let's connect!
 
 A quick personal note: Although I originally come from Shandong Province, China—the cradle of Confucianism—I find myself critical of this ancient philosophy, particularly for the gender discrimination I believe it perpetuates.
-
 [Email](mailto:yzhu1221@umd.edu)
-======
-[Github](https://github.com/Adams-yiyue-zhu)
-======
-[Wechat]()
-======
-[X]()
-======
-[Phone Number](240204448)
-======
-
-
 
 
 A data-driven personal website
