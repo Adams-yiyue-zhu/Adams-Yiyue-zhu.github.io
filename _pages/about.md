@@ -1,12 +1,4 @@
----
-permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
-excerpt: "About me"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
+
 Adams Y. Zhu
 ======
 Adams Y. Zhu is a first-year graduate student pursuing his Master's degree at the University of Maryland, College Park. His current research interests span a variety of fields, including the theory of deep learning, compressive sensing, online learning, and reinforcement learning theory.
