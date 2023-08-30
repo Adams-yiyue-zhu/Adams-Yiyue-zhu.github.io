@@ -11,7 +11,9 @@ A quick personal note: Although I originally come from Shandong Province, Chinaâ
 
 [Github](https://github.com/Adams-yiyue-zhu)                         
 
-[Wechat]()
+[Wechat for academic discussion]()
+
+[Wechat for private discussion]()
 
 [X]()
 
