@@ -8,10 +8,19 @@ But my curiosity doesn't stop at academics. I also have a profound love for math
 A quick personal note: Although I originally come from Shandong Province, China—the cradle of Confucianism—I find myself critical of this ancient philosophy, particularly for the gender discrimination I believe it perpetuates.
 
 [Email](yzhu1221@umd.edu)/
+======
 [Github](https://github.com/Adams-yiyue-zhu)/
+======
 [Wechat]()/
+======
 [X]()/
+======
 [Phone Number](240204448)
+======
+
+
+
+
 A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
