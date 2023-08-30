@@ -1,9 +1,11 @@
 
 Adams Y. Zhu
 ======
-Adams Y. Zhu is a first-year graduate student pursuing his Master's degree at the University of Maryland, College Park. His current research interests span a variety of fields, including the theory of deep learning, compressive sensing, online learning, and reinforcement learning theory.
+Welcome to my personal website! My name is Adams Y. Zhu, and I am a first-year graduate student pursuing a Master's degree at the University of Maryland, College Park. My academic interests are quite diverse, but currently, I am focused on exploring the intricacies of deep learning theory, compressive sensing, online learning, and reinforcement learning theory.
 
-In addition to his academic pursuits, Adams has a deep passion for both mathematics and history. Feel free to reach out if you share similar interests. He is also a critic of Confucianism, particularly for the gender discrimination he believes it perpetuates.
+But my curiosity doesn't stop at academics. I also have a profound love for mathematics and history. If you share similar interests or would like to discuss any of these topics, I invite you to reach out. Let's connect!
+
+A quick personal note: Although I originally come from Shandong Province, China—the cradle of Confucianism—I find myself critical of this ancient philosophy, particularly for the gender discrimination I believe it perpetuates.
 
 A data-driven personal website
 ======
