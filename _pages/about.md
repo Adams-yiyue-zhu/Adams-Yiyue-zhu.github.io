@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Adams Y. Zhu is a first-year master student at University of Maryland, college park. His recent research area interests include deep learning theory,compressive sensing,online lerning and reinforcement learning theory.
+Adams Y. Zhu is a first-year graduate student pursuing his Master's degree at the University of Maryland, College Park. His current research interests span a variety of fields, including the theory of deep learning, compressive sensing, online learning, and reinforcement learning theory.
 
-Besides academic research, Adams also have a passion in mathematics and history. Free free to contact me if you share similar interests. Adams opposes the Confucianism and the sexual discrimination it represents.
+In addition to his academic pursuits, Adams has a deep passion for both mathematics and history. Feel free to reach out if you share similar interests. He is also a critic of Confucianism, particularly for the gender discrimination he believes it perpetuates.
 
 A data-driven personal website
 ======
