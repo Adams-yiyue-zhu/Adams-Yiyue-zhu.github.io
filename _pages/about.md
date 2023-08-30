@@ -1,5 +1,5 @@
 
-Adams Y. Zhu
+<font size=5>Adams Y. Zhu
 ======
 Welcome to my personal website! My name is Adams Y. Zhu, and I am a first-year graduate student pursuing a Master's degree at the University of Maryland, College Park. My academic interests are quite diverse, but currently, I am focused on exploring the intricacies of deep learning theory, compressive sensing, online learning, and reinforcement learning theory.
 
